@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90c0a928.css",
+    "main.js": "/static/js/main.46bfd992.js",
+    "static/media/hummingbird.png": "/static/media/hummingbird.ec045938c0f61957ad1a.png",
+    "index.html": "/index.html",
+    "main.90c0a928.css.map": "/static/css/main.90c0a928.css.map",
+    "main.46bfd992.js.map": "/static/js/main.46bfd992.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c0a928.css",
+    "static/js/main.46bfd992.js"
+  ]
+}
